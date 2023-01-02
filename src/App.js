@@ -37,7 +37,7 @@ function App() {
       <div className="app-container">
         <header className="app-header">
           <div className="top-bar">
-            <h1>Forum</h1>
+            <h1>Forum Submission</h1>
           </div>
         </header>
         <main className="app-content">
